@@ -1,0 +1,6 @@
+mysql-connector-python
+flask
+python-dotenv
+psycopg2-binary
+requests
+pymongo

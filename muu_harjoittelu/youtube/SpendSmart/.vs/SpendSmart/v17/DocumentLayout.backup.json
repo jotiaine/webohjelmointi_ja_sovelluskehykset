@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jonit\\Desktop\\webohjelmointi_ja_sovelluskehykset\\youtube\\SpendSmart\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE27F3AA-C574-4873-BDEE-63D53C10D2BA}|SpendSmart\\SpendSmart.csproj|c:\\users\\jonit\\desktop\\webohjelmointi_ja_sovelluskehykset\\youtube\\spendsmart\\spendsmart\\views\\home\\expenses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE27F3AA-C574-4873-BDEE-63D53C10D2BA}|SpendSmart\\SpendSmart.csproj|solutionrelative:spendsmart\\views\\home\\expenses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE27F3AA-C574-4873-BDEE-63D53C10D2BA}|SpendSmart\\SpendSmart.csproj|c:\\users\\jonit\\desktop\\webohjelmointi_ja_sovelluskehykset\\youtube\\spendsmart\\spendsmart\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE27F3AA-C574-4873-BDEE-63D53C10D2BA}|SpendSmart\\SpendSmart.csproj|solutionrelative:spendsmart\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE27F3AA-C574-4873-BDEE-63D53C10D2BA}|SpendSmart\\SpendSmart.csproj|c:\\users\\jonit\\desktop\\webohjelmointi_ja_sovelluskehykset\\youtube\\spendsmart\\spendsmart\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE27F3AA-C574-4873-BDEE-63D53C10D2BA}|SpendSmart\\SpendSmart.csproj|solutionrelative:spendsmart\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE27F3AA-C574-4873-BDEE-63D53C10D2BA}|SpendSmart\\SpendSmart.csproj|c:\\users\\jonit\\desktop\\webohjelmointi_ja_sovelluskehykset\\youtube\\spendsmart\\spendsmart\\views\\home\\createeditexpense.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE27F3AA-C574-4873-BDEE-63D53C10D2BA}|SpendSmart\\SpendSmart.csproj|solutionrelative:spendsmart\\views\\home\\createeditexpense.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE27F3AA-C574-4873-BDEE-63D53C10D2BA}|SpendSmart\\SpendSmart.csproj|c:\\users\\jonit\\desktop\\webohjelmointi_ja_sovelluskehykset\\youtube\\spendsmart\\spendsmart\\models\\spendsmartdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE27F3AA-C574-4873-BDEE-63D53C10D2BA}|SpendSmart\\SpendSmart.csproj|solutionrelative:spendsmart\\models\\spendsmartdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE27F3AA-C574-4873-BDEE-63D53C10D2BA}|SpendSmart\\SpendSmart.csproj|c:\\users\\jonit\\desktop\\webohjelmointi_ja_sovelluskehykset\\youtube\\spendsmart\\spendsmart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE27F3AA-C574-4873-BDEE-63D53C10D2BA}|SpendSmart\\SpendSmart.csproj|solutionrelative:spendsmart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE27F3AA-C574-4873-BDEE-63D53C10D2BA}|SpendSmart\\SpendSmart.csproj|c:\\users\\jonit\\desktop\\webohjelmointi_ja_sovelluskehykset\\youtube\\spendsmart\\spendsmart\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BE27F3AA-C574-4873-BDEE-63D53C10D2BA}|SpendSmart\\SpendSmart.csproj|solutionrelative:spendsmart\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE27F3AA-C574-4873-BDEE-63D53C10D2BA}|SpendSmart\\SpendSmart.csproj|c:\\users\\jonit\\desktop\\webohjelmointi_ja_sovelluskehykset\\youtube\\spendsmart\\spendsmart\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BE27F3AA-C574-4873-BDEE-63D53C10D2BA}|SpendSmart\\SpendSmart.csproj|solutionrelative:spendsmart\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE27F3AA-C574-4873-BDEE-63D53C10D2BA}|SpendSmart\\SpendSmart.csproj|c:\\users\\jonit\\desktop\\webohjelmointi_ja_sovelluskehykset\\youtube\\spendsmart\\spendsmart\\spendsmart.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{BE27F3AA-C574-4873-BDEE-63D53C10D2BA}|SpendSmart\\SpendSmart.csproj|solutionrelative:spendsmart\\spendsmart.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE27F3AA-C574-4873-BDEE-63D53C10D2BA}|SpendSmart\\SpendSmart.csproj|c:\\users\\jonit\\desktop\\webohjelmointi_ja_sovelluskehykset\\youtube\\spendsmart\\spendsmart\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE27F3AA-C574-4873-BDEE-63D53C10D2BA}|SpendSmart\\SpendSmart.csproj|solutionrelative:spendsmart\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE27F3AA-C574-4873-BDEE-63D53C10D2BA}|SpendSmart\\SpendSmart.csproj|c:\\users\\jonit\\desktop\\webohjelmointi_ja_sovelluskehykset\\youtube\\spendsmart\\spendsmart\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE27F3AA-C574-4873-BDEE-63D53C10D2BA}|SpendSmart\\SpendSmart.csproj|solutionrelative:spendsmart\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE27F3AA-C574-4873-BDEE-63D53C10D2BA}|SpendSmart\\SpendSmart.csproj|c:\\users\\jonit\\desktop\\webohjelmointi_ja_sovelluskehykset\\youtube\\spendsmart\\spendsmart\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE27F3AA-C574-4873-BDEE-63D53C10D2BA}|SpendSmart\\SpendSmart.csproj|solutionrelative:spendsmart\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE27F3AA-C574-4873-BDEE-63D53C10D2BA}|SpendSmart\\SpendSmart.csproj|c:\\users\\jonit\\desktop\\webohjelmointi_ja_sovelluskehykset\\youtube\\spendsmart\\spendsmart\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE27F3AA-C574-4873-BDEE-63D53C10D2BA}|SpendSmart\\SpendSmart.csproj|solutionrelative:spendsmart\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SpendSmartDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\jonit\\Desktop\\webohjelmointi_ja_sovelluskehykset\\youtube\\SpendSmart\\SpendSmart\\Models\\SpendSmartDbContext.cs",
+              "RelativeDocumentMoniker": "SpendSmart\\Models\\SpendSmartDbContext.cs",
+              "ToolTip": "C:\\Users\\jonit\\Desktop\\webohjelmointi_ja_sovelluskehykset\\youtube\\SpendSmart\\SpendSmart\\Models\\SpendSmartDbContext.cs",
+              "RelativeToolTip": "SpendSmart\\Models\\SpendSmartDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T07:18:04.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\jonit\\Desktop\\webohjelmointi_ja_sovelluskehykset\\youtube\\SpendSmart\\SpendSmart\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SpendSmart\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\jonit\\Desktop\\webohjelmointi_ja_sovelluskehykset\\youtube\\SpendSmart\\SpendSmart\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SpendSmart\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-24T07:15:45.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SpendSmart",
+              "DocumentMoniker": "C:\\Users\\jonit\\Desktop\\webohjelmointi_ja_sovelluskehykset\\youtube\\SpendSmart\\SpendSmart\\SpendSmart.csproj",
+              "RelativeDocumentMoniker": "SpendSmart\\SpendSmart.csproj",
+              "ToolTip": "C:\\Users\\jonit\\Desktop\\webohjelmointi_ja_sovelluskehykset\\youtube\\SpendSmart\\SpendSmart\\SpendSmart.csproj",
+              "RelativeToolTip": "SpendSmart\\SpendSmart.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-24T07:15:40.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\jonit\\Desktop\\webohjelmointi_ja_sovelluskehykset\\youtube\\SpendSmart\\SpendSmart\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "SpendSmart\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\jonit\\Desktop\\webohjelmointi_ja_sovelluskehykset\\youtube\\SpendSmart\\SpendSmart\\appsettings.Development.json",
+              "RelativeToolTip": "SpendSmart\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-24T07:15:34.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jonit\\Desktop\\webohjelmointi_ja_sovelluskehykset\\youtube\\SpendSmart\\SpendSmart\\Program.cs",
+              "RelativeDocumentMoniker": "SpendSmart\\Program.cs",
+              "ToolTip": "C:\\Users\\jonit\\Desktop\\webohjelmointi_ja_sovelluskehykset\\youtube\\SpendSmart\\SpendSmart\\Program.cs",
+              "RelativeToolTip": "SpendSmart\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T10:41:44.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\jonit\\Desktop\\webohjelmointi_ja_sovelluskehykset\\youtube\\SpendSmart\\SpendSmart\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SpendSmart\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\jonit\\Desktop\\webohjelmointi_ja_sovelluskehykset\\youtube\\SpendSmart\\SpendSmart\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SpendSmart\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T10:32:34.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Expenses.cshtml",
+              "DocumentMoniker": "C:\\Users\\jonit\\Desktop\\webohjelmointi_ja_sovelluskehykset\\youtube\\SpendSmart\\SpendSmart\\Views\\Home\\Expenses.cshtml",
+              "RelativeDocumentMoniker": "SpendSmart\\Views\\Home\\Expenses.cshtml",
+              "ToolTip": "C:\\Users\\jonit\\Desktop\\webohjelmointi_ja_sovelluskehykset\\youtube\\SpendSmart\\SpendSmart\\Views\\Home\\Expenses.cshtml",
+              "RelativeToolTip": "SpendSmart\\Views\\Home\\Expenses.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T10:39:17.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateEditExpense.cshtml",
+              "DocumentMoniker": "C:\\Users\\jonit\\Desktop\\webohjelmointi_ja_sovelluskehykset\\youtube\\SpendSmart\\SpendSmart\\Views\\Home\\CreateEditExpense.cshtml",
+              "RelativeDocumentMoniker": "SpendSmart\\Views\\Home\\CreateEditExpense.cshtml",
+              "ToolTip": "C:\\Users\\jonit\\Desktop\\webohjelmointi_ja_sovelluskehykset\\youtube\\SpendSmart\\SpendSmart\\Views\\Home\\CreateEditExpense.cshtml",
+              "RelativeToolTip": "SpendSmart\\Views\\Home\\CreateEditExpense.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T06:43:01.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "C:\\Users\\jonit\\Desktop\\webohjelmointi_ja_sovelluskehykset\\youtube\\SpendSmart\\SpendSmart\\Models\\Expense.cs",
+              "RelativeDocumentMoniker": "SpendSmart\\Models\\Expense.cs",
+              "ToolTip": "C:\\Users\\jonit\\Desktop\\webohjelmointi_ja_sovelluskehykset\\youtube\\SpendSmart\\SpendSmart\\Models\\Expense.cs",
+              "RelativeToolTip": "SpendSmart\\Models\\Expense.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T10:34:54.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\jonit\\Desktop\\webohjelmointi_ja_sovelluskehykset\\youtube\\SpendSmart\\SpendSmart\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "SpendSmart\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\jonit\\Desktop\\webohjelmointi_ja_sovelluskehykset\\youtube\\SpendSmart\\SpendSmart\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "SpendSmart\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T10:52:50.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\jonit\\Desktop\\webohjelmointi_ja_sovelluskehykset\\youtube\\SpendSmart\\SpendSmart\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "SpendSmart\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\jonit\\Desktop\\webohjelmointi_ja_sovelluskehykset\\youtube\\SpendSmart\\SpendSmart\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "SpendSmart\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T10:52:55.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\jonit\\Desktop\\webohjelmointi_ja_sovelluskehykset\\youtube\\SpendSmart\\SpendSmart\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SpendSmart\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\jonit\\Desktop\\webohjelmointi_ja_sovelluskehykset\\youtube\\SpendSmart\\SpendSmart\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SpendSmart\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T10:53:00.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jonit\\Desktop\\webohjelmointi_ja_sovelluskehykset\\youtube\\SpendSmart\\SpendSmart\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SpendSmart\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jonit\\Desktop\\webohjelmointi_ja_sovelluskehykset\\youtube\\SpendSmart\\SpendSmart\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SpendSmart\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T10:32:59.2Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
